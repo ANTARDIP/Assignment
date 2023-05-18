@@ -1,0 +1,6 @@
+Enter the number of towers: 3
+Enter the location and quality factor for each tower:
+Tower 1: 1 2 5
+Tower 2: 2 1 7
+Tower 3: 3 1 9
+Enter the radius: 2
